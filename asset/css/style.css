@@ -19,6 +19,7 @@ nav {
 
 nav .navbar-brand {
   color: white !important;
+  font-size: 20px;
 }
 .navbar-brand .nav-link {
   font-size: 18px;
